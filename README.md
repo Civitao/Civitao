@@ -1,6 +1,8 @@
+Hello, world!
+
 Call me Civitao 
 
-- Self-taught learning Front-end Development 
+- Self-taugh Front-end Development Student
 
 <!---
 Civitao/Civitao is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
