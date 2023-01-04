@@ -1,11 +1,14 @@
- <div style="display: block">
- 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=civitao&show_icons=true&theme=dark)](https://github.com/civitao/github-readme-stats)
+ <div>
+  <a href="https://github.com/civitao">
+   <img src="https://github-readme-stats.vercel.app/api?username=civitao&show_icons=true&theme=dark"
+        alt="AboutMe"
+        width=50% />
+  </a> 
 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=civitao&layout=compact&theme=dark)](https://github.com/civitao/github-readme-stats)
+
  
 </div>
-Call me Civitao 
+# Call me Civitao 
 
 - Self-taught Front-end Development Student
 
