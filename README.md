@@ -1,5 +1,10 @@
-Hello, world!
+ <div style="display: block">
+ 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=civitao&show_icons=true&theme=dark)](https://github.com/civitao/github-readme-stats)
 
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=civitao&layout=compact&theme=dark)](https://github.com/civitao/github-readme-stats)
+ 
+</div>
 Call me Civitao 
 
 - Self-taught Front-end Development Student
