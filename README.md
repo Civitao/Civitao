@@ -7,13 +7,14 @@ Front-end Development Student
          width=65% />
   </a> 
 </div>
+
  <div>
    	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 </div>
 
  
 
-<div>
+<div style=display: inline_block>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" 
        height=40 
        width=40
@@ -25,26 +26,22 @@ Front-end Development Student
        width=35
        alt="js-icon"
        />
-  
-  
+   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" 
        height=35 
        width=35 
        alt="ts-icon" 
      /> 
-         
-          
+                
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" 
         height=40 
         width=40
         alt="react-icon"
-        />
+      />
  
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" 
          height=35
          width=35
          alt="node-icon"
-         />         
+       />         
  </div                               
-
-   
