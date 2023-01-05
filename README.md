@@ -1,28 +1,51 @@
- <div>
+## Hi! Call me Civitao
+<div>
   <a href="https://github.com/civitao">
-   <img src="https://github-readme-stats.vercel.app/api?username=civitao&show_icons=true&theme=dark"
-        alt="AboutMe"
-        width=50% />
+    <img src="https://github-readme-stats.vercel.app/api?username=civitao&show_icons=true&theme=dark"
+         alt="AboutMe"
+         width=65% />
   </a> 
-
-
- 
 </div>
-# Call me Civitao 
+ <div>
+   	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+</div>
 
-- Self-taught Front-end Development Student
+ Front-end Development Student
 
-<!---
-Civitao/Civitao is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
-
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" height=40 width=40 />
+<div>
           
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" height=40 width=40/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" 
+       height=40 
+       width=40
+       alt="css-icon"
+       />
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height=35 width=35/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height=40 width=40/>
-                                
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" 
+       height=35 
+       width=35
+       alt="js-icon"
+       />
+  
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" 
+       height=35 
+       width=35 
+       alt="ts-icon" 
+     /> 
+         
+          
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" 
+        height=40 
+        width=40
+        alt="react-icon"
+        />
+ 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" 
+         height=35
+         width=35
+         alt="node-icon"
+         />
+          
+ </div                               
 
+   
