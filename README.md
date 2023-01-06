@@ -52,6 +52,7 @@
        alt="express-icon" 
      />
 </div>
+<br>
 
 ## Tools that i know
  <div>
@@ -78,27 +79,27 @@
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" 
        height=35 
        width=35 
-       alt="nextjs-icon" 
+       alt="jest-icon" 
      /> 
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
        height=35 
        width=35 
-       alt="nextjs-icon" 
+       alt="html5" 
      /> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" 
        height=35 
        width=35 
-       alt="nextjs-icon" 
+       alt="git-icon" 
      /> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"
          height=35 
          width=35 
-         alt="nextjs-icon" 
+         alt="figma-icon" 
       />   
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg"
          height=35 
          width=35 
-         alt="nextjs-icon" 
+         alt="nestjs-icon" 
        />      
            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" 
          height=35
@@ -108,7 +109,7 @@
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" 
          height=35 
          width=35 
-         alt="tailwind-icon
+         alt="tailwind-icon"
        />
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" 
           height=40 
