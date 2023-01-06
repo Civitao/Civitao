@@ -19,12 +19,12 @@
     <img src="  https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />         	   
   </a> 
    <a href="https://instagram.com/civitao_" target=blank_>
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />         	   
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />         	 
   </a> 
   </div>
 
  
-<brq>
+<br>
 <div>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" 
        height=40 
