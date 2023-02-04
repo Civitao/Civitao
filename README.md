@@ -1,5 +1,5 @@
 # Hi, Call me Civitao
-## Full-stack Developer
+## Front End Developer
 <div>
   <a href="https://github.com/civitao" target=blank>
     <img src="https://github-readme-stats.vercel.app/api?username=civitao&show_icons=true&theme=dark"
